@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Realgusto
-- 👀 I’m interested in new opportunities to apply my new knowledge.
-- 🌱 I’m currently learning delphi, phyton, html, css, sql, django... I evolve little by little
-- 💞️ I’m collaborating on projects under implementation 
-- 📫 To find me, you can access my link on GitHub
+- 👋 Ola, Eu sou Realgusto
+- 👀 Estou interessado em novas oportunidades para aplicar meu novo aprendizado.
+- 🌱 Atualmente estou estudando delphi, phyton, django... Evoluindo pouco a pouco
+- 💞️ Atualmente estou trabalhando em um projeto para implantação (disponível TemperaturaCerta)
+- 📫 Para me achar, voce pode acessar meu link no GitHub
 
 <!---
 Realgusto/Realgusto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
