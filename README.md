@@ -1,7 +1,7 @@
 - 👋 Ola, Eu sou Augusto Silva
 - 👀 Estou interessado em novas oportunidades para aplicar meu novo aprendizado.
-- 🌱 Atualmente estou estudando delphi, phyton, django... Evoluindo pouco a pouco
-- 💞️ Atualmente estou trabalhando em um projeto para implantação (disponível TemperaturaCerta)
+- 🌱 Atualmente estou estudando delphi, SQL, phyton, django... Evoluindo pouco a pouco
+- 💞️ Atualmente estou trabalhando em um projeto para implantação: Temperatura Certa
 - 📫 Para me achar, voce pode acessar meu link no GitHub
 
 <!---
