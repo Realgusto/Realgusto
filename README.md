@@ -1,7 +1,7 @@
 - 👋 Ola, Eu sou Augusto Silva
 - 👀 Estou interessado em novas oportunidades para aplicar meu novo aprendizado.
-- 🌱 Atualmente estou estudando delphi, SQL, IoT, ACBr... Evoluindo pouco a pouco.
-- 💞️ Atualmente estou trabalhando em um projeto para implantação: Temperatura Certa
+- 🌱 Atualmente estou estudando cursando ADS na Universidade Estácio, nas horas vagas estudo delphi, SQL, IoT, ACBr... Evoluindo pouco a pouco.
+- 💞️ Atualmente estou trabalhando como freelancer para algumas empresas.
 - 📫 Para me achar, voce pode acessar meu link no GitHub
 
 <!---
